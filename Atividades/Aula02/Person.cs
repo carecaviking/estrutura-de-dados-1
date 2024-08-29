@@ -30,5 +30,10 @@ namespace Aula02
                 this._location = location;
             }
         }
+
+        public float GetDistance(string location)
+        {
+            return 0;
+        }
     }
 }
